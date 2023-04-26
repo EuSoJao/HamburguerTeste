@@ -1,0 +1,16 @@
+#Navbar{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+#NavbarButton{
+    background-color: rgb(107, 107, 107);
+    gap: 15px;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+#NavbarButton:hover{
+    background-color: rgb(95, 95, 95);
+}
